@@ -1,0 +1,3 @@
+C:/Users/ramis/Desktop/Data Stucture and Algorithm/kthminmax/cmake-build-debug/CMakeFiles/kthminmax.dir
+C:/Users/ramis/Desktop/Data Stucture and Algorithm/kthminmax/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ramis/Desktop/Data Stucture and Algorithm/kthminmax/cmake-build-debug/CMakeFiles/rebuild_cache.dir
